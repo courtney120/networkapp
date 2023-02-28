@@ -6,6 +6,6 @@ The deployable all-in-one bundl!
 
 ## Deployment
 
-![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)https://github.com/courtney120/networkapp/wiki/Deploy-to-Koyeb)
+![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)https://github.com/courtney120/networkapp/wiki/Deploy-to-Koyeb
 
 If you are deploying to an alternative service or to a server, refer to [Deploy via terminal]
